@@ -1,4 +1,4 @@
-​																:man_student:
+																:man_student:
 
 
 
