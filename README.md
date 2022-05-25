@@ -8,7 +8,11 @@
 
 ## Grupo criando para aprendizagem e troca de experiências na área de desenvolvimento.
 
-Atividades : 
+Exercícios de Algoritmos:
+
+[01](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/01.py)
+
+[02](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/02.py)
 
 [03](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/03.py)
 
@@ -64,7 +68,7 @@ Atividades :
 
 [29](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/29.py)
 
-30
+[30](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/30.py)
 
 [31](https://github.com/AdrianoPedro7/estudos-python/blob/main/Mentoria%20Dev2022/31.py)
 
