@@ -1,11 +1,15 @@
 def Media(a, b):
     c = a + b
-    return c/2
-primeiroNumero = int(input("Informe o primeiro numero: "))
-segundoNumero = int(input("Informe o segundo numero: "))
-print(f'A média é: {Media(primeiroNumero, segundoNumero)}')
+    return c / 2
 
 
-def Situacao():
-    if Media() < 4:
-        return
+def Situacao(c):
+    if c < 4:
+        print("Reprovado")
+    elif 4 < c < 7:
+        print("Recuperação")
+    else:
+        print("Aprovado")
+
+
+Situacao(Media(5,9))
